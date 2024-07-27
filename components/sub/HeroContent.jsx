@@ -50,7 +50,7 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          I&apos;m Mern Stack Software Developer As a skilled MERN stack developer, I specialize in building robust and scalable web applications using MongoDB, Express.js, React, and Node.js. Check out my projects and skills.
+          I&apos;m Mern Stack Software Developer. As a skilled MERN stack developer, I specialize in building robust and scalable web applications using MongoDB, Express.js, React, and Node.js. Check out my projects and skills.
         </motion.p>
         <motion.a
           variants={slideInFromLeft(1)}
